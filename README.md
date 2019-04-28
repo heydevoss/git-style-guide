@@ -31,6 +31,18 @@ The possible types of branches are:
 
 Besides this, exists `development`, where functional code and merges are put, and `master` that contains a stable version.
 
+## Releases versioning
+![](https://img.icons8.com/dusk/100/000000/upgrade.png)
+> The content of this section are extracted and adapted by [SemVer](https://semver.org/)  
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+- MAJOR version when you make incompatible API changes,  
+- MINOR version when you add functionality in a backwards-compatible manner, and  
+- PATCH version when you make backwards-compatible bug fixes.  
+
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
 ## Keeping a good changelog
 ![](https://img.icons8.com/dusk/100/000000/overview-pages-4.png)
 > The content of this section are extracted and adapted by [keep a changelog](https://keepachangelog.com/en/0.3.0/)
