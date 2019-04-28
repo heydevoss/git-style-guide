@@ -16,6 +16,7 @@ $ git checkout -b fix/27-apollo-server-invalid-query
 
 # bad: too vague
 $ git checkout -b login_fix
+
 # bad: no use of dashes
 $ git checkout -b feature/add_webhook
 ```
