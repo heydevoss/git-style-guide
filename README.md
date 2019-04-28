@@ -29,3 +29,5 @@ The possible types of branches are:
 - *refactor*: A code change that neither fixes a bug nor adds a feature
 - *test*: Adding missing or correcting existing tests
 
+Besides this, exists `development`, where functional code and merges are put, and `master` that contains a stable version.
+
